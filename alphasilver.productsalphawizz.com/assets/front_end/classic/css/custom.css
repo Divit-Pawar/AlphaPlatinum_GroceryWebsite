@@ -1,0 +1,101 @@
+.product-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*.product-image img {
+    height: 200px;
+    width: 250px;
+    border: 1px solid #bfbfbf;
+    border-radius: 10px;
+    padding: 5px;
+}*/
+i.fas.fa-phone {
+    transform: rotate(115deg) !important;
+}
+.single-cta i.fa.fa-solid.fa-phone {
+    transform: rotate(115deg);
+}
+.product-image-container {
+    max-width: 175px !important;
+}
+ .product-grid .price {
+   
+    margin-bottom: 10px !important;
+}
+.category-section .category-image-container {
+    height: 130px;
+    margin: auto;
+    max-width: 155px !important;
+    position: relative;
+    vertical-align: middle;
+    max-height: 150px;
+}
+.category-swiper .swiper-slide img {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    max-width: 100% !important;
+    max-height: 100%;
+}
+.product-style-1 .product-image-container {
+    height: 100px !important;
+    line-height: 120px !important;
+    margin: 0 auto;
+    max-width: 100px;
+    position: relative;
+}
+.product-grid .product-image img {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+.product-grid {
+    min-height: -webkit-fill-available;
+    margin-bottom: 10px;
+}
+.product-image-container {
+    height: 215px;}
+ .product-grid .price {
+ 	    font-size: 14px;
+ }
+ .product-grid .title {
+    font-size: 12px;
+    font-weight: 400;
+    height: auto !important;}
+    .login-form {
+    	padding: 10px;
+    }
+    .total-price td {
+    color: #e43f52 !important;
+}
+@media only screen and (max-width: 1024px) {
+.cd-morph-dropdown .main-nav>ul>li>a {
+	    padding: 0 17px !important;
+}
+}
+@media only screen and (max-width: 768px) {
+.gen_btn .btn {
+    padding: 0 6px;
+}
+}
+@media only screen and (max-width: 767px) {
+	.button {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+	.add-to-cart {
+ 
+    padding: 5px 6px !important;
+}
+.gen_btn .btn {
+    padding: 0 8px;
+}
+}
